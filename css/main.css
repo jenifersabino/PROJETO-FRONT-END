@@ -1,0 +1,25 @@
+/* css/main.css */
+
+/* 1. Settings */
+@import url('settings/_variables.css');
+
+/* 2. Base */
+@import url('base/_reset.css');
+@import url('base/_base.css');
+@import url('base/_typography.css');
+
+/* 3. Layout */
+@import url('layout/_main-layout.css');
+@import url('layout/_grid.css');
+@import url('layout/_header.css');
+@import url('layout/_navigation.css');
+@import url('layout/_footer.css');
+
+/* 4. Components */
+@import url('components/_button.css');
+@import url('components/_card.css');
+@import url('components/_form.css');
+@import url('components/_feedback.css');
+
+/* 5. Utilities */
+@import url('utilities/_spacing.css');
