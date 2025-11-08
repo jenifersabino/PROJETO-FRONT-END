@@ -1,8 +1,8 @@
 # 💚 Sã e Salvo! | Acolhimento e Reinserção Social
-[![Status da Build](https://github.com/jenifersabino/Atividade-IIl-Frontend/actions/workflows/main.yml/badge.svg)](https://github.com/jenifersabino/Atividade-IIl-Frontend/actions)
+[![Status da Build](https://github.com/jenifersabino/PROJETO-FRONT-END/actions/workflows/main.yml/badge.svg)](https://github.com/jenifersabino/PROJETO-FRONT-END/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![WCAG 2.1 AA](https://img.shields.io/badge/Acessibilidade-WCAG%202.1%20AA-brightgreen)](https://www.w3.org/WAI/WCAG21/quickref/?levels=aa)
-[![Versão Semântica](https://img.shields.io/badge/Vers%C3%A3o-v3.0.0-blue)](https://github.com/jenifersabino/Atividade-IIl-Frontend/releases/tag/v3.0.0)
+[![Versão Semântica](https://img.shields.io/badge/Vers%C3%A3o-v3.0.0-blue)](https://github.com/jenifersabino/PROJETO-FRONT-END/releases/tag/v3.0.0)
 
 ## 📖 Descrição do Projeto
 
@@ -64,11 +64,11 @@ Para garantir o carregamento rápido e eficiente da aplicação em um ambiente d
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/jenifersabino/Atividade-IIl-Frontend.git](https://github.com/jenifersabino/Atividade-IIl-Frontend.git)
+    git clone [https://github.com/jenifersabino/PROJETO-FRONT-END.git](https://github.com/jenifersabino/PROJETO-FRONT-END.git)
     ```
 2.  **Navegue até a Pasta:**
     ```bash
-    cd Atividade-IIl-Frontend
+    cd PROJETO-FRONT-END
     ```
 3.  **Abra:** Simplesmente abra o arquivo `index.html` em qualquer navegador moderno.
 
@@ -79,6 +79,6 @@ Para garantir o carregamento rápido e eficiente da aplicação em um ambiente d
 O projeto está ativo e acessível via GitHub Pages:
 
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autora
 
 **Jenifer Sabino**
