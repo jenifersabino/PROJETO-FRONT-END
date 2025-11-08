@@ -79,6 +79,6 @@ Para garantir o carregamento rápido e eficiente da aplicação em um ambiente d
 O projeto está ativo e acessível via GitHub Pages:
 
 
-## 🧑‍💻 Autor
+## 🧑‍💻 Autora
 
 **Jenifer Sabino**
